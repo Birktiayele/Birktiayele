@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/Birktiayele/Birktiayele/blob/main/asset/GitHub.gif" alt="Hi, I'm Birkti 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/Birktiayele/Birktiayele/blob/main/asset/GitHub%20README.gif" alt="Hi, I'm Birkti 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <!--
